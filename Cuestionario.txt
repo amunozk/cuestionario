@@ -1,8 +1,10 @@
 preguntas 
  En tus palabras, ¿Qué es internet?
+Es una red de computadoras conectadas a servidores
 
  Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-
+El medio de transmisión constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos. ... Los medios guiados conducen (guían) las ondas a través de un camino físico, ejemplos de estos medios son el cable coaxial, la fibra óptica y el par trenzado.
+ 
  ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 
  Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
